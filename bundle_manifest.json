@@ -1,4 +1,6 @@
 {
   "version": "1.0.1",
-  "bundleZipUrl": "TEMP"
+  "minCompatibleVersion": "1.0.0",
+  "bundleZipUrl": "https://github.com/Barsuk22/osu-agent-bundles/releases/download/v1.0.1/OsuAgentTestBundle-1.0.1.zip",
+  "notes": "Test bundle v1.0.1"
 }
