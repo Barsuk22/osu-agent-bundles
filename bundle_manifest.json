@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2.0",
-  "minCompatibleVersion": "1.0.0.0",
-  "bundleZipUrl": "https://github.com/Barsuk22/osu-agent-bundles/releases/download/v1.0.2/OsuAgentTestBundle-1.0.2.0.zip",
-  "notes": "Initial test bundle"
+    "version":  "1.0.4.0",
+    "minCompatibleVersion":  "1.0.0.0",
+    "bundleZipUrl":  "https://github.com/Barsuk22/osu-agent-bundles/releases/download/v1.0.4/OsuAgentTestBundle-1.0.4.0.zip",
+    "notes":  "Osu Agent Studio update: Avalonia UI, refreshed AppImage assets, controller/config/model bundle."
 }
